@@ -1,0 +1,60 @@
+{
+    "Produtos": [
+      {
+        "id": 1,
+        "nome": "Game Boy Classic",
+        "imagem": "./imagensgeek/GameBoy.jpg",
+        "descricao": "imagem Game Boy Classic",
+        "preco": 100.00
+      },
+      {
+        "id": 2,
+        "nome": "Game Boy Blue",
+        "imagem": "./imagensgeek/GameBoyBlue.jpg",
+        "descricao": "imagem Game Boy Azul",
+        "preco": 110.00
+      },
+      {
+        "id": 3,
+        "nome": "Game Boy Green",
+        "imagem": "./imagensgeek/GameBoyGreen.jpg",
+        "descricao": "imagem Game Boy Green",
+        "preco": 90.00
+      },
+      {
+        "id": 4,
+        "nome": "Game Boy Pokémon",
+        "imagem": "./imagensgeek/GameBoyPokemon.jpg",
+        "descricao": "imagem Game Boy Pokemon",
+        "preco": 150.00
+      },
+      {
+        "id": 5,
+        "nome": "GPi Case",
+        "imagem": "./imagensgeek/GPICase.jpg",
+        "descricao": "imagem GPi Case",
+        "preco": 60.00
+      },
+      {
+        "id": 6,
+        "nome": "Pac Man Game",
+        "imagem": "./imagensgeek/PacManGame.jpg",
+        "descricao": "imagem Pacman Game",
+        "preco": 60.00
+      },
+      {
+        "id": 7,
+        "nome": "Pokémon Game",
+        "imagem": "./imagensgeek/PokemonGame.jpg",
+        "descricao": "imagem Pokemon Game",
+        "preco": 90.00
+      },
+      {
+        "id": 8,
+        "nome": "Super Nitendo",
+        "imagem": "./imagensgeek/SuperNitendo.jpg",
+        "descricao": "imagem Super Nitendo",
+        "preco": 300.00
+      }
+    ]
+  }
